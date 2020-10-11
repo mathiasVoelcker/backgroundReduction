@@ -1,0 +1,22 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "args": "background_subtraction_2 background_static_1 0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ImageDisplay<Assign. 2_69c8a1a0>",
+            "request": "launch",
+            "mainClass": "ImageDisplay",
+            "projectName": "Assign. 2_69c8a1a0"
+        }
+    ]
+}
